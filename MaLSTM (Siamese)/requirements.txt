@@ -9,7 +9,7 @@ pandas
 scikit-learn
 scipy
 h5py
-keras==2.1.5
+keras==2.13.1
 theano==0.9.0
 StandardScaler
 nltk
